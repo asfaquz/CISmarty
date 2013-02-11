@@ -1,4 +1,4 @@
 CISmarty
 ========
 
-CodeIgniter Smarty
+CodeIgniter Smarty 3
