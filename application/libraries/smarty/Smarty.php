@@ -2,7 +2,7 @@
 
 /**
  * Smarty Class
- *
+ 
  * @package		CodeIgniter
  * @subpackage	Libraries
  * @category	Smarty
